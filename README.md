@@ -2,6 +2,22 @@
 
 Selected Python coursework demonstrating core programming, data-structure, and algorithm concepts.
 
+## Concepts Demonstrated
+
+```mermaid
+flowchart TD
+    A["🐍 Python"] --> B["Data Structures"]
+    A --> C["Algorithms"]
+
+    B --> D["Queues"]
+    B --> E["Graphs"]
+
+    C --> F["Sorting"]
+    C --> G["Graph Traversal"]
+
+    E --> H["Depth-First Search"]
+```
+
 ## Included Work
 
 ### Checkout Queue Simulation
